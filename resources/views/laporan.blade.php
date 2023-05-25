@@ -62,6 +62,7 @@
 			<th>Jumlah Terjual</th>
 			<th>Harga Produk</th>
 			<th>Harga Total</th>
+			<th>Nama Produk</th>
 		</tr>
 		@foreach($laporan as $l)
 		<tr>
